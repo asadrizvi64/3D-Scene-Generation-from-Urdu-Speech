@@ -15,11 +15,15 @@ This project is a Python-based system that converts Urdu speech to a 3D scene. I
 - Sounddevice, scipy, wavio, spacy, pandas, numpy, and other Python libraries (refer to requirements.txt)
 
 ### Installation
--> Clone the repository to your local machine using Git:
-```bash git clone https://github.com/<username>/<repository>.git```
--> Change the directory to the cloned repository:
-```bash cd <repository>```
--> Install the required packages using pip: 
+- Clone the repository to your local machine using Git:
+```bash 
+git clone https://github.com/<username>/<repository>.git
+```
+- Change the directory to the cloned repository:
+```bash 
+cd <repository>
+```
+- Install the required packages using pip: 
 ```bash pip install -r requirements.txt```
 
 ### Usage
