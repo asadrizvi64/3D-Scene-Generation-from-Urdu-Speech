@@ -16,11 +16,11 @@ This project is a Python-based system that converts Urdu speech to a 3D scene. I
 
 ### Installation
 -> Clone the repository to your local machine using Git:
-```git clone https://github.com/<username>/<repository>.git```
+```bash git clone https://github.com/<username>/<repository>.git```
 -> Change the directory to the cloned repository:
-```cd <repository>```
+```bash cd <repository>```
 -> Install the required packages using pip: 
-```pip install -r requirements.txt```
+```bash pip install -r requirements.txt```
 
 ### Usage
 1. Run the following command to start the system: ```python main.py```
