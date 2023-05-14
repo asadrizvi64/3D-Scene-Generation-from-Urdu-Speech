@@ -15,12 +15,15 @@ This project is a Python-based system that converts Urdu speech to a 3D scene. I
 - Sounddevice, scipy, wavio, spacy, pandas, numpy, and other Python libraries (refer to requirements.txt)
 
 ### Installation
--> Clone the repository to your local machine using Git
--> Change the directory to the cloned repository
--> Install the required packages using pip - pip install -r requirements.txt
+-> Clone the repository to your local machine using Git:
+```git clone https://github.com/<username>/<repository>.git```
+-> Change the directory to the cloned repository:
+```cd <repository>```
+-> Install the required packages using pip: 
+```pip install -r requirements.txt```
 
 ### Usage
-1. Run the following command to start the system - python main.py
+1. Run the following command to start the system: ```python main.py```
 2. Follow the on-screen instructions to speak the Urdu text into the microphone. (5-second timer, start from "hey")
 3. The system will process the spoken text and generate a 3D scene based on the processed data.
 
