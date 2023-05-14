@@ -24,7 +24,9 @@ git clone https://github.com/<username>/<repository>.git
 cd <repository>
 ```
 - Install the required packages using pip: 
-```bash pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
 
 ### Usage
 1. Run the following command to start the system: ```python main.py```
